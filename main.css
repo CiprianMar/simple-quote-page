@@ -31,3 +31,6 @@ body {
   font-style: italic;
 }
 
+.quote, .author {
+  color: aliceblue;
+}
